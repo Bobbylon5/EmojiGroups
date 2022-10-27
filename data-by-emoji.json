@@ -1,5 +1,5 @@
-{
-    "Smileys & Emotion": [
+[{
+    "Smileys_Emotion": [
         
         "😀": {
             "name": "grinning face",
@@ -1331,7 +1331,7 @@
         }
     ]
     
-    "People & Body":
+    "People_Body":
     [
         
         "👋": {
@@ -4546,7 +4546,7 @@
         
         
     ]
-    "Animals & Nature":
+    "Animals_Nature":
     [
         
         
@@ -5768,7 +5768,7 @@
         }
         
     ]
-    "Food & Drink":
+    "Food_Drink":
     [
         
         
@@ -15317,3 +15317,4 @@
         }
     ]
 }
+]
