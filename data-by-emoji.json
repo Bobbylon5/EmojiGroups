@@ -1328,7 +1328,7 @@
             "emoji_version": "0.6",
             "unicode_version": "0.6",
             "skin_tone_support": false
-        },
+        }
     ]
     
     "People & Body":
@@ -4542,7 +4542,7 @@
             "emoji_version": "0.6",
             "unicode_version": "0.6",
             "skin_tone_support": false
-        },
+        }
         
         
     ]
@@ -5765,7 +5765,7 @@
             "emoji_version": "0.6",
             "unicode_version": "0.6",
             "skin_tone_support": false
-        },
+        }
         
     ]
     "Food & Drink":
@@ -6836,7 +6836,7 @@
             "emoji_version": "1.0",
             "unicode_version": "1.0",
             "skin_tone_support": false
-        },
+        }
         
         
     ]
@@ -8587,7 +8587,7 @@
             "emoji_version": "0.6",
             "unicode_version": "0.6",
             "skin_tone_support": false
-        },
+        }
         
     ]
     "Activities":
@@ -9273,7 +9273,7 @@
             "emoji_version": "13.0",
             "unicode_version": "13.0",
             "skin_tone_support": false
-        },
+        }
         
     ]
     "Objects":
@@ -11367,7 +11367,7 @@
             "emoji_version": "14.0",
             "unicode_version": "14.0",
             "skin_tone_support": false
-        },
+        }
         
     ]
     "Symbols":
@@ -13157,7 +13157,7 @@
             "emoji_version": "0.6",
             "unicode_version": "0.6",
             "skin_tone_support": false
-        },
+        }
         
     ]
     "flags":
